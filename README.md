@@ -2,9 +2,7 @@ A passionate  Java Full Stack Engineer || Full Stack Engineer || Giridhari  Admi
 
 Email Me 👉 ✉ giridharibehera651@gmail.com For Collaboration/Project or Anything Else. 😊😊
 💬 Ask me about: Java, JavaScript, React, Html, CSS
-📫 How to reach me: giridharibehera651@gmail.com
 😄 Pronouns: Giridhari
-⚡ Fun fact: I Love Tech and Tech Love Me
 🔗 I am a Full time coder. 😊😊
 
 ## 🏆 GitHub Trophies
