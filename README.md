@@ -28,7 +28,8 @@ Email Me 👉 ✉ giridharibehera651@gmail.com For Collaboration/Project or Anyt
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GIRIDHARI-AI-CODER&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code+is+like+humor.+When+you+have+to+explain+it,+it’s+bad.&author=Giridhari+Behera)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The+quietest+code+is+often+the+loudest+in+impact.&author=Giridhari+Behera)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GIRIDHARI-AI-CODER&icon=0&color=0)](https://visitcount.itsvg.in)
